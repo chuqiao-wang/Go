@@ -143,7 +143,7 @@ const (
 	PROJECT_ID = "arboreal-cat-194222"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.196.197.94:9200"
+	ES_URL = "http://35.231.70.228:9200"
 )
 
 
